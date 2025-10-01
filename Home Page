@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>Sayed.Fajre_Portfolio</title>
+  <style>
+    body {
+      background-color: antiquewhite;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      font-size: 36px;
+      color: #333;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #555;
+      margin-bottom: 40px;
+    }
+
+    .btn {
+      background-color: #4CAF50;
+      color: white;
+      padding: 15px 30px;
+      margin: 10px;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Sayed.Fajre_Portfolio</h1>
+  <h2>Desktop Developer</h2>
+
+  <button class="btn">عرض مشروع العيادة</button>
+  <button class="btn">عرض مشروع إدارة المخازن</button>
+
+</body>
+</html>
