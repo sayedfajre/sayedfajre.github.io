@@ -41,7 +41,6 @@
 </head>
 <body>
 
-  <h1>Sayed.Fajre_Portfolio</h1>
   <h2>Desktop Developer</h2>
 
   <button class="btn">عرض مشروع العيادة</button>
@@ -49,3 +48,4 @@
 
 </body>
 </html>
+
